@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\bin\Debug\net7.0\pair_numbers.exe
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\bin\Debug\net7.0\pair_numbers.deps.json
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\bin\Debug\net7.0\pair_numbers.runtimeconfig.json
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\bin\Debug\net7.0\pair_numbers.dll
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\bin\Debug\net7.0\pair_numbers.pdb
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.AssemblyInfo.cs
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.dll
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\refint\pair_numbers.dll
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.pdb
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\pair_numbers.genruntimeconfig.cache
+C:\Users\alex\geekbrains\Seminar4\pair_numbers\obj\Debug\net7.0\ref\pair_numbers.dll
